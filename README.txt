@@ -1,6 +1,6 @@
 === Tattoo Shop Manager ===
 Contributors: xkon
-Donate link: https://xkon.gr/
+Donate link: https://www.paypal.me/xkon
 Tags: tattoo, shop, manager, clients, stock, calendar, tattoos, piercing, piercings, appointment, appointments
 Requires at least: 4.7
 Tested up to: 4.8
