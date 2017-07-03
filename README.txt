@@ -16,12 +16,13 @@ A simple yet powerful Tattoo Shop Manager.
 
 I'm a Tattoo Artist / Web Developer and a shop owner so I originally created this for personal use on my shop and thought it was time to make it public. This plugin is based on personal needs / experience of what information I wanted but feel free to ask for updates or changes to make it even better.
 
-**This plugin requires [Meta Box](http://metabox.io/ "Meta Box") to work.**
+You can show your love & support by donating if you like.
 
-**Many thanks to [Gregory - chmln](https://github.com/chmln/flatpickr "chmln Github") for his datetime picker [Flatpickr](https://github.com/chmln/flatpickr "Flatpickr").
-**
+*This plugin requires [Meta Box](http://metabox.io/ "Meta Box") to work.*
 
-It supports:
+*Many thanks to [Gregory - chmln](https://github.com/chmln/flatpickr "chmln Github") for his datetime picker [Flatpickr](https://github.com/chmln/flatpickr "Flatpickr").*
+
+**Sections**
 
 * Appointments management
 * Client management
@@ -155,6 +156,6 @@ This is the first public release.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 
 * First stable public release.
