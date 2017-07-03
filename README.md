@@ -1,11 +1,14 @@
-=== Tattoo Shop Manager ===
-Contributors: xkon
-Donate link: https://xkon.gr/
-Tags: tattoo, shop, manager, clients, stock, calendar, tattoos, piercing, piercings, appointment, appointments
-Requires at least: 4.7
-Tested up to: 4.8
+##Tattoo Shop Manager
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-1.png)
+
+Requires at least: WordPress 4.7
+
+Tested up to: WordPress 4.8
+
 Stable tag: 1.0.0
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 A simple yet powerful Tattoo Shop Manager.
@@ -129,26 +132,6 @@ I've been installing and using this plugin in many friendly shops running live w
 
 **This plugin requires [Meta Box](http://metabox.io/ "Meta Box") to work**
 
-== Screenshots ==
-
-1. screenshot-1.png
-2. screenshot-2.png
-3. screenshot-3.png
-4. screenshot-4.png
-5. screenshot-5.png
-6. screenshot-6.png
-7. screenshot-7.png
-8. screenshot-8.png
-9. screenshot-9.png
-10. screenshot-10.png
-11. screenshot-11.png
-12. screenshot-12.png
-13. screenshot-13.png
-14. screenshot-14.png
-15. screenshot-15.png
-16. screenshot-16.png
-17. screenshot-17.png
-
 == Upgrade Notice ==
 
 This is the first public release.
@@ -158,3 +141,39 @@ This is the first public release.
 = 1.0 =
 
 * First stable public release.
+
+== Screenshots ==
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-1.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-2.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-3.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-4.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-5.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-6.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-7.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-8.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-9.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-10.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-11.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-12.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-13.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-14.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-15.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-16.png)
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-17.png)
