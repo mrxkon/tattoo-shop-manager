@@ -4,11 +4,11 @@
  * @version 1.0.0
  *
  * Plugin Name:       Tattoo Shop Manager
- * Plugin URI:        http://xkon.gr/
+ * Plugin URI:        https://xkon.gr/tattoo-shop-manager/
  * Description:       A simple yet powerful Tattoo Shop Manager.
  * Version:           1.0.0
  * Author:            Xenos Konstantinos (xkon)
- * Author URI:        http://xkon.gr/
+ * Author URI:        https://xkon.gr/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       tattoo-shop-manager

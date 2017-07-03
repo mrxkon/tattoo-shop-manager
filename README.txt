@@ -18,6 +18,8 @@ I'm a Tattoo Artist / Web Developer and a shop owner so I originally created thi
 
 You can show your love & support by donating if you like.
 
+[Official Github Repo and Issue Tracker](https://github.com/mrxkon/tattoo-shop-manager)
+
 *This plugin requires [Meta Box](http://metabox.io/ "Meta Box") to work.*
 
 *Many thanks to [Gregory - chmln](https://github.com/chmln/flatpickr "chmln Github") for his datetime picker [Flatpickr](https://github.com/chmln/flatpickr "Flatpickr").*
