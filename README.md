@@ -1,4 +1,5 @@
-##Tattoo Shop Manager
+## Tattoo Shop Manager
+
 ![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-1.png)
 
 Requires at least: WordPress 4.7
