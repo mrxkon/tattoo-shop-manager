@@ -117,23 +117,6 @@ I will try my best to deliver them as soon as possible.
 
 I've been installing and using this plugin in many friendly shops running live websites as well without any problems. With that in mind it is safe as it uses its own post types, taxonomies etc but feel free to test it before adding it on a live website.
 
-### Installation Instructions  
-
-**From within WordPress**
-
-* Visit Plugins > Add New
-* Search for Tattoo Shop Manager
-* Click the Install Now button to install the plugin
-* Click the Activate button to activate the plugin
-
-**Manually**
-
-* Unzip the downloaded package
-* Upload `tattoo-shop-manager` directory to the /wp-content/plugins/ directory
-* Activate the plugin through the ‘Plugins’ menu in WordPress
-
-**This plugin requires [Meta Box](http://metabox.io/ "Meta Box") to work**
-
 ### Upgrade Notice
 
 This is the first public release.
