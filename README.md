@@ -1,6 +1,6 @@
 ## Tattoo Shop Manager
 
-![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-1.png)
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/icon-256x256.png)
 
 Requires at least: WordPress 4.7
 
@@ -13,6 +13,8 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 A simple yet powerful Tattoo Shop Manager.
+
+![tsm_img](https://raw.githubusercontent.com/mrxkon/tattoo-shop-manager/master/assets/screenshot-1.png)
 
 == Description ==
 
