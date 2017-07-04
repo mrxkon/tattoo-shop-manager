@@ -2,8 +2,14 @@
 function tattoo_shop_manager_fetch_revenues()
 {
     $tsm_options = get_option('tattoo_shop_manager_options');
-    $strDate = $_POST['startDate'];
-    $endDate = $_POST['endDate'];
+
+    $strDate = sanitize_text_field($_POST['startDate']);
+    $endDate = sanitize_text_field($_POST['endDate']);
+
+    if (!preg_match('/^[0-9]{4}-[0-9]{2}-[0-9]{2}\s[0-9]{2}:[0-9]{2}:[0-9]{1}\z/', $strDate) || !preg_match('/^[0-9]{4}-[0-9]{2}-[0-9]{2}\s[0-9]{2}:[0-9]{2}:[0-9]{1}\z/', $endDate)) {
+        echo '<span style="color:red">' . __('Please use a correct date format', 'tattoo-shop-manager') . '</span><br/>';
+        die();
+    }
     ?>
     <h2><?php echo __('Revenue Per Appoinment Type', 'tattoo-shop-manager'); ?></h2>
     <table id="apprevenuetable" class="wp-list-table widefat fixed striped">
