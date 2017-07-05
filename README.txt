@@ -18,7 +18,7 @@ I'm a Tattoo Artist / Web Developer and a shop owner so I originally created thi
 
 You can show your love & support by donating if you like.
 
-[Official Github Repo and Issue Tracker](https://github.com/mrxkon/tattoo-shop-manager)
+[Official GitHub Repo and Issue Tracker](https://github.com/mrxkon/tattoo-shop-manager)
 
 *This plugin requires [Meta Box](http://metabox.io/ "Meta Box") to work.*
 
@@ -40,7 +40,7 @@ A few extra notes about each section and how it works:
 **Tattoo Shop Manager Section**
 
 * Shows upcoming Appointments
-* Shows Total Revenue by Appoinment Type and Employee
+* Shows Total Revenue by Appointment Type and Employee
 * Show which Inks / Needles are about to expire
 * Lucky Client Raffle
 * Settings
@@ -134,23 +134,23 @@ I've been installing and using this plugin in many friendly shops running live w
 
 == Screenshots ==
 
-1. screenshot-1.png
-2. screenshot-2.png
-3. screenshot-3.png
-4. screenshot-4.png
-5. screenshot-5.png
-6. screenshot-6.png
-7. screenshot-7.png
-8. screenshot-8.png
-9. screenshot-9.png
-10. screenshot-10.png
-11. screenshot-11.png
-12. screenshot-12.png
-13. screenshot-13.png
-14. screenshot-14.png
-15. screenshot-15.png
-16. screenshot-16.png
-17. screenshot-17.png
+1. Tattoo Shop Manager Dashboard
+2. Appointments List
+3. Appointments View
+4. Appointment Types
+5. Employees List
+6. Employees View
+7. Job Positions
+8. Clients List
+9. Client View
+10. Inks List
+11. Ink View
+12. Ink Companies & Sets
+13. Needles List
+14. Needle View
+15. Needle Companies
+16. Suppliers List
+17. Supplier View
 
 == Upgrade Notice ==
 
