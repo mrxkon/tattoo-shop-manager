@@ -6,7 +6,7 @@ Requires at least: WordPress 4.7
 
 Tested up to: WordPress 4.8
 
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 License: GPLv2 or later
 
@@ -122,6 +122,10 @@ I've been installing and using this plugin in many friendly shops running live w
 This is the first public release.
 
 ### Changelog
+
+**1.0.1**
+
+* Fixed the errors when installing on localhost setups.
 
 **1.0.0**
 

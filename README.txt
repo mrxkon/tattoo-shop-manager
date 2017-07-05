@@ -1,10 +1,10 @@
 === Tattoo Shop Manager ===
 Contributors: xkon
 Donate link: https://www.paypal.me/xkon
-Tags: tattoo, shop, manager, clients, stock, calendar, tattoos, piercing, piercings, appointment, appointments
+Tags: tattoo, shop, manager, clients, stock, appointments, piercing
 Requires at least: 4.7
 Tested up to: 4.8
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -157,6 +157,9 @@ I've been installing and using this plugin in many friendly shops running live w
 This is the first public release.
 
 == Changelog ==
+= 1.0.1 =
+
+* Fixed the errors when installing on localhost setups.
 
 = 1.0.0 =
 
