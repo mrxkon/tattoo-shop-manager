@@ -12,7 +12,7 @@ License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-###[Demo](https://demo.xkon.gr/ "Demo")
+### [Demo](https://demo.xkon.gr/ "Demo")
 
 **You can show your love & support by donating via**  <a href="https://www.paypal.me/xkon" target="_blank"><img src="https://www.paypalobjects.com/webstatic/paypalme/images/pp_logo_small.png" height="20px"/></a>
 
