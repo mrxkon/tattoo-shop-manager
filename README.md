@@ -6,7 +6,7 @@ Requires at least: WordPress 4.7
 
 Tested up to: WordPress 4.8
 
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 License: GPLv2 or later
 
@@ -122,6 +122,12 @@ I've been installing and using this plugin in many friendly shops running live w
 This is the first public release.
 
 ### Changelog
+
+**1.0.2**
+
+* Added Translation for Greek Language.
+* Created .pot file for future translations.
+* Minor fixes.
 
 **1.0.1**
 

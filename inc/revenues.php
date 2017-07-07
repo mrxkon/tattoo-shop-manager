@@ -16,7 +16,7 @@ function tattoo_shop_manager_fetch_revenues()
         <thead>
         <tr>
             <th><strong><?php echo __('Type', 'tattoo-shop-manager'); ?></strong></th>
-            <th><strong><?php echo __('Amount', 'tattoo-shop-manager'); ?></strong></th>
+            <th><strong><?php echo __('Total', 'tattoo-shop-manager'); ?></strong></th>
         </tr>
         </thead>
         <tbody>
@@ -70,7 +70,7 @@ function tattoo_shop_manager_fetch_revenues()
         <thead>
         <tr>
             <th><strong><?php echo __('Name', 'tattoo-shop-manager'); ?></strong></th>
-            <th><strong><?php echo __('Amount', 'tattoo-shop-manager'); ?></strong></th>
+            <th><strong><?php echo __('Total', 'tattoo-shop-manager'); ?></strong></th>
         </tr>
         </thead>
         <tbody>

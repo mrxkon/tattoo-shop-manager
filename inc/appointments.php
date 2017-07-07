@@ -63,7 +63,7 @@ function tattoo_shop_manager_appointments_post_type()
         'attributes' => __('Attributes', 'tattoo-shop-manager'),
         'parent_item_colon' => __('Parent Appointment:', 'tattoo-shop-manager'),
         'all_items' => __('All Appointments', 'tattoo-shop-manager'),
-        'add_new_item' => __('Add New', 'tattoo-shop-manager'),
+        'add_new_item' => __('Add New Appointment', 'tattoo-shop-manager'),
         'add_new' => __('Add New Appointment', 'tattoo-shop-manager'),
         'new_item' => __('New Appointment', 'tattoo-shop-manager'),
         'edit_item' => __('Edit Appointment', 'tattoo-shop-manager'),
@@ -145,7 +145,7 @@ function tattoo_shop_manager_appointments_metaboxes($meta_boxes)
             array(
                 'id' => $prefix . 'artist',
                 'type' => 'post',
-                'name' => esc_html__('Artist:', 'tattoo-shop-manager'),
+                'name' => esc_html__('Employee:', 'tattoo-shop-manager'),
                 'post_type' => 'tsm-employees',
                 'field_type' => 'select',
                 'query_args' => array(),
@@ -184,7 +184,7 @@ function tattoo_shop_manager_appointments_metaboxes($meta_boxes)
                 'before' => '<hr style="margin-bottom:20px;"/>',
                 'id' => $prefix . 'files',
                 'type' => 'file_advanced',
-                'name' => esc_html__('Files', 'tattoo-shop-manager'),
+                'name' => esc_html__('Files:', 'tattoo-shop-manager'),
             ),
             array(
                 'before' => '<hr style="margin-bottom:20px;"/>',
@@ -225,7 +225,7 @@ function manage_tattoo_shop_manager_appointments_columns($columns)
     $columns['picture'] = __('Picture', 'tattoo-shop-manager');
     $columns['cdate'] = __('Date', 'tattoo-shop-manager');
     $columns['time'] = __('Time', 'tattoo-shop-manager');
-    $columns['artist'] = __('Artist', 'tattoo-shop-manager');
+    $columns['artist'] = __('Employee', 'tattoo-shop-manager');
     $columns['client'] = __('Client', 'tattoo-shop-manager');
     $columns['price'] = __('Price', 'tattoo-shop-manager');
     $columns['inks'] = __('Inks', 'tattoo-shop-manager');

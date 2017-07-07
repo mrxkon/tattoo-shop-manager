@@ -1,12 +1,12 @@
 <?php
 /*
  * @package Tattoo Shop Manager
- * @version 1.0.1
+ * @version 1.0.2
  *
  * Plugin Name:       Tattoo Shop Manager
  * Plugin URI:        https://xkon.gr/tattoo-shop-manager/
  * Description:       A simple yet powerful Tattoo Shop Manager.
- * Version:           1.0.1
+ * Version:           1.0.2
  * Author:            Xenos Konstantinos (xkon)
  * Author URI:        https://xkon.gr/
  * License:           GPL-2.0+
@@ -50,7 +50,7 @@ function tattoo_shop_manager_options()
     register_setting('tattoo_shop_manager_options', 'tattoo_shop_manager_options', 'tattoo_shop_manager_options_validate');
     add_settings_section('tattoo_shop_manager_main', __('Settings', 'tattoo-shop-manager'), 'tattoo_shop_manager_section_text', 'tattoo-shop-manager');
     add_settings_field('tattoo_shop_manager_currency_string', __('Currency Symbol', 'tattoo-shop-manager'), 'tattoo_shop_manager_currency_string', 'tattoo-shop-manager', 'tattoo_shop_manager_main');
-    add_settings_field('tattoo_shop_manager_upcappointmets_string', __('Upcoming Appointments Days', 'tattoo-shop-manager'), 'tattoo_shop_manager_upcappointmets_string', 'tattoo-shop-manager', 'tattoo_shop_manager_main');
+    add_settings_field('tattoo_shop_manager_upcappointmets_string', __('Forthcoming Appointments Days', 'tattoo-shop-manager'), 'tattoo_shop_manager_upcappointmets_string', 'tattoo-shop-manager', 'tattoo_shop_manager_main');
     add_settings_field('tattoo_shop_manager_expirationdate_string', __('Expiration Days', 'tattoo-shop-manager'), 'tattoo_shop_manager_expirationdate_string', 'tattoo-shop-manager', 'tattoo_shop_manager_main');
 }
 
@@ -85,7 +85,7 @@ function tattoo_shop_manager_expirationdate_string()
 
 function tsm_load_textdomain()
 {
-    load_plugin_textdomain('tattoo-shop-manager', false, plugin_dir_url(__FILE__) . 'languages/');
+    load_plugin_textdomain( 'tattoo-shop-manager', false, basename( dirname( __FILE__ ) ) . '/languages' );
 }
 
 add_action('plugins_loaded', 'tsm_load_textdomain');
@@ -97,9 +97,9 @@ add_action('plugins_loaded', 'tsm_load_textdomain');
 function tattoo_shop_manager_styles()
 {
     wp_enqueue_style('flatpickr-css', plugin_dir_url(__FILE__) . 'flatpickr/flatpickr.min.css', array(), '3.0.6');
-    wp_enqueue_style('tattoo-shop-manager-css', plugin_dir_url(__FILE__) . 'css/style.css', array(), '1.0.1');
+    wp_enqueue_style('tattoo-shop-manager-css', plugin_dir_url(__FILE__) . 'css/style.css', array(), '1.0.2');
     wp_enqueue_script('flatpickr-js', plugin_dir_url(__FILE__) . 'flatpickr/flatpickr.min.js', array('jquery'), '3.0.6', true);
-    wp_enqueue_script('tattoo-shop-manager-js', plugin_dir_url(__FILE__) . 'js/scripts.js', array('jquery'), '1.0.1', true);
+    wp_enqueue_script('tattoo-shop-manager-js', plugin_dir_url(__FILE__) . 'js/scripts.js', array('jquery'), '1.0.2', true);
 }
 
 add_action('admin_enqueue_scripts', 'tattoo_shop_manager_styles');
@@ -112,17 +112,17 @@ function tattoo_shop_manager_change_title_text($title)
 {
     $screen = get_current_screen();
     if ('tsm-needles' == $screen->post_type) {
-        $title = 'Enter Needle\'s size & type';
+        $title = __('Enter Needle\'s size & type', 'tattoo-shop-manager');
     } elseif ('tsm-inks' == $screen->post_type) {
-        $title = 'Enter Ink\'s name';
+        $title = __('Enter Ink\'s name', 'tattoo-shop-manager');
     } elseif ('tsm-clients' == $screen->post_type) {
-        $title = 'Enter Client\'s name';
+        $title = __('Enter Client\'s name', 'tattoo-shop-manager');
     } elseif ('tsm-employees' == $screen->post_type) {
-        $title = 'Enter Employee\'s name';
+        $title = __('Enter Employee\'s name', 'tattoo-shop-manager');
     } elseif ('tsm-appointments' == $screen->post_type) {
-        $title = 'Enter Appointment\'s title';
+        $title = __('Enter Appointment\'s title', 'tattoo-shop-manager');
     } elseif ('tsm-suppliers' == $screen->post_type) {
-        $title = 'Enter Suppliers\'s name';
+        $title = __('Enter Suppliers\'s name', 'tattoo-shop-manager');
     }
     return $title;
 }

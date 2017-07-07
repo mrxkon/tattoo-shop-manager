@@ -148,7 +148,7 @@ function tattoo_shop_manager_manage_clients_columns($columns)
 {
     unset($columns['description']);
     unset($columns['date']);
-    $columns['title'] = 'Name';
+    $columns['title'] = __('Name', 'tattoo-shop-manager');
     $columns['picture'] = __('Picture', 'tattoo-shop-manager');
     $columns['birthday'] = __('Birthday', 'tattoo-shop-manager');
     $columns['phone'] = __('Phone', 'tattoo-shop-manager');

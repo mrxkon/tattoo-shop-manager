@@ -179,7 +179,7 @@ function tattoo_shop_manager_employees_metaboxes($meta_boxes)
                 'before' => '<hr style="margin-bottom:20px;"/>',
                 'id' => $prefix . 'healthcert',
                 'type' => 'file_input',
-                'name' => esc_html__('Health Certificate', 'tattoo-shop-manager'),
+                'name' => esc_html__('Health Certificate:', 'tattoo-shop-manager'),
             ),
             array(
                 'before' => '<hr style="margin-bottom:20px;"/>',
@@ -217,7 +217,7 @@ function tattoo_shop_manager_manage_employees_columns($columns)
 {
     unset($columns['description']);
     unset($columns['date']);
-    $columns['title'] = 'Name';
+    $columns['title'] = __('Name', 'tattoo-shop-manager');
     $columns['picture'] = __('Picture', 'tattoo-shop-manager');
     $columns['nickname'] = __('Nickname', 'tattoo-shop-manager');
     $columns['birthday'] = __('Birthday', 'tattoo-shop-manager');

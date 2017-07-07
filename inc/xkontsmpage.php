@@ -21,7 +21,7 @@ function tattoo_shop_manager_admin_page()
                     <div class="meta-box-sortables ui-sortable">
                         <div class="postbox">
                             <h2>
-                                <span><?php echo __('Upcoming Appointments in the next', 'tattoo-shop-manager') . ' ' . $tsm_options['tattoo_shop_manager_upcappointmets_string'] . ' ' . __('Days', 'tattoo-shop-manager'); ?></span>
+                                <span><?php echo __('Forthcoming Appointments in the next', 'tattoo-shop-manager') . ' ' . $tsm_options['tattoo_shop_manager_upcappointmets_string'] . ' ' . __('Days', 'tattoo-shop-manager'); ?></span>
                             </h2>
                             <hr/>
                             <div class="inside">
@@ -139,8 +139,7 @@ function tattoo_shop_manager_admin_page()
                                     <form id="tsmluckyform" action="" method="post">
                                         <div id="minor-publishing-actions">
                                             <!-- ajax content -->
-                                            <p class="tsmwinnerp">Click the 'Draw!' button to select one random winner
-                                                from your clients to win a prize!</p>
+                                            <p class="tsmwinnerp"><?php echo __('Click the <strong>Draw!</strong> button to select one random winner from your clients to win a prize!', 'tattoo-shop-manager'); ?></p>
                                         </div>
                                         <div id="major-publishing-actions">
                                             <div id="publishing-action">

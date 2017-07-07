@@ -1,0 +1,1153 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Tattoo Shop Manager\n"
+"POT-Creation-Date: 2017-07-07 07:04+0300\n"
+"PO-Revision-Date: 2017-07-07 07:03+0300\n"
+"Last-Translator: \n"
+"Language-Team: xkon\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: tattoo-shop-manager.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/appointments.php:13
+msgctxt "Taxonomy General Name"
+msgid "Appointment Types"
+msgstr ""
+
+#: inc/appointments.php:14
+msgctxt "Taxonomy Singular Name"
+msgid "Appointment Type"
+msgstr ""
+
+#: inc/appointments.php:15
+msgid "Appointment Types"
+msgstr ""
+
+#: inc/appointments.php:16
+msgid "All Appointment Types"
+msgstr ""
+
+#: inc/appointments.php:17
+msgid "Parent Appointment Type"
+msgstr ""
+
+#: inc/appointments.php:18
+msgid "Parent Appointment Type:"
+msgstr ""
+
+#: inc/appointments.php:19
+msgid "New Appointment Type"
+msgstr ""
+
+#: inc/appointments.php:20
+msgid "Add New Appointment Type"
+msgstr ""
+
+#: inc/appointments.php:21
+msgid "Edit Appointment Type"
+msgstr ""
+
+#: inc/appointments.php:22
+msgid "Update Appointment Type"
+msgstr ""
+
+#: inc/appointments.php:23
+msgid "View Appointment Type"
+msgstr ""
+
+#: inc/appointments.php:24 inc/employees.php:24 inc/inks.php:24
+#: inc/needles.php:24
+msgid "Separate with commas"
+msgstr ""
+
+#: inc/appointments.php:25
+msgid "Add or remove Appointment Type"
+msgstr ""
+
+#: inc/appointments.php:26 inc/employees.php:26 inc/inks.php:26
+#: inc/needles.php:26
+msgid "Choose from the most used"
+msgstr ""
+
+#: inc/appointments.php:27
+msgid "Popular Appointment Types"
+msgstr ""
+
+#: inc/appointments.php:28
+msgid "Search Appointment Types"
+msgstr ""
+
+#: inc/appointments.php:29
+msgid "Appointment Type not found"
+msgstr ""
+
+#: inc/appointments.php:30 inc/employees.php:30 inc/inks.php:30
+#: inc/needles.php:30
+msgid "No items"
+msgstr ""
+
+#: inc/appointments.php:31
+msgid "Appointment Types list"
+msgstr ""
+
+#: inc/appointments.php:32
+msgid "Appointment Types list navigation"
+msgstr ""
+
+#: inc/appointments.php:58
+msgctxt "Post Type General Name"
+msgid "Appointments"
+msgstr ""
+
+#: inc/appointments.php:59
+msgctxt "Post Type Singular Name"
+msgid "Appointment"
+msgstr ""
+
+#: inc/appointments.php:60 inc/appointments.php:89
+msgid "Appointments"
+msgstr ""
+
+#: inc/appointments.php:61 inc/appointments.php:88
+msgid "Appointment"
+msgstr ""
+
+#: inc/appointments.php:62 inc/clients.php:17 inc/employees.php:62
+#: inc/inks.php:62 inc/needles.php:62 inc/suppliers.php:17
+msgid "Archives"
+msgstr ""
+
+#: inc/appointments.php:63 inc/clients.php:18 inc/employees.php:63
+#: inc/inks.php:63 inc/needles.php:63 inc/suppliers.php:18
+msgid "Attributes"
+msgstr ""
+
+#: inc/appointments.php:64
+msgid "Parent Appointment:"
+msgstr ""
+
+#: inc/appointments.php:65
+msgid "All Appointments"
+msgstr ""
+
+#: inc/appointments.php:66 inc/appointments.php:67
+msgid "Add New Appointment"
+msgstr ""
+
+#: inc/appointments.php:68
+msgid "New Appointment"
+msgstr ""
+
+#: inc/appointments.php:69
+msgid "Edit Appointment"
+msgstr ""
+
+#: inc/appointments.php:70
+msgid "Update Appointment"
+msgstr ""
+
+#: inc/appointments.php:71
+msgid "View Appointment"
+msgstr ""
+
+#: inc/appointments.php:72
+msgid "View Appointments"
+msgstr ""
+
+#: inc/appointments.php:73
+msgid "Search Appointments"
+msgstr ""
+
+#: inc/appointments.php:74 inc/appointments.php:75 inc/clients.php:29
+#: inc/clients.php:30 inc/employees.php:74 inc/employees.php:75 inc/inks.php:74
+#: inc/inks.php:75 inc/needles.php:74 inc/needles.php:75 inc/suppliers.php:29
+#: inc/suppliers.php:30
+msgid "No results"
+msgstr ""
+
+#: inc/appointments.php:76 inc/clients.php:31 inc/employees.php:76
+#: inc/inks.php:76 inc/needles.php:76 inc/suppliers.php:31
+msgid "Featured Image"
+msgstr ""
+
+#: inc/appointments.php:77 inc/clients.php:32 inc/employees.php:77
+#: inc/inks.php:77 inc/needles.php:77 inc/suppliers.php:32
+msgid "Set featured image"
+msgstr ""
+
+#: inc/appointments.php:78 inc/clients.php:33 inc/employees.php:78
+#: inc/inks.php:78 inc/needles.php:78 inc/suppliers.php:33
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/appointments.php:79 inc/clients.php:34 inc/employees.php:79
+#: inc/inks.php:79 inc/needles.php:79 inc/suppliers.php:34
+msgid "Use as featured image"
+msgstr ""
+
+#: inc/appointments.php:80
+msgid "Insert into Appointment"
+msgstr ""
+
+#: inc/appointments.php:81
+msgid "Uploaded to this Appointment"
+msgstr ""
+
+#: inc/appointments.php:82
+msgid "Appointments list"
+msgstr ""
+
+#: inc/appointments.php:83
+msgid "Appointments list navigation"
+msgstr ""
+
+#: inc/appointments.php:84
+msgid "Filter Appointments list"
+msgstr ""
+
+#: inc/appointments.php:122
+msgid "Appointment Details"
+msgstr ""
+
+#: inc/appointments.php:137
+msgid "Date:"
+msgstr ""
+
+#: inc/appointments.php:142
+msgid "Time:"
+msgstr ""
+
+#: inc/appointments.php:148
+msgid "Employee:"
+msgstr ""
+
+#: inc/appointments.php:156
+msgid "Client:"
+msgstr ""
+
+#: inc/appointments.php:163
+msgid "Price:"
+msgstr ""
+
+#: inc/appointments.php:170
+msgid "Inks:"
+msgstr ""
+
+#: inc/appointments.php:178
+msgid "Needles:"
+msgstr ""
+
+#: inc/appointments.php:187
+msgid "Files:"
+msgstr ""
+
+#: inc/appointments.php:192 inc/clients.php:131 inc/employees.php:187
+#: inc/inks.php:146 inc/needles.php:136 inc/suppliers.php:127
+msgid "Notes:"
+msgstr ""
+
+#: inc/appointments.php:225 inc/clients.php:152 inc/employees.php:221
+#: inc/inks.php:180 inc/needles.php:170 inc/suppliers.php:148
+msgid "Picture"
+msgstr ""
+
+#: inc/appointments.php:226
+msgid "Date"
+msgstr ""
+
+#: inc/appointments.php:227
+msgid "Time"
+msgstr ""
+
+#: inc/appointments.php:228 inc/employees.php:61 inc/employees.php:88
+msgid "Employee"
+msgstr ""
+
+#: inc/appointments.php:229 inc/clients.php:16 inc/clients.php:43
+msgid "Client"
+msgstr ""
+
+#: inc/appointments.php:230 inc/xkontsmpage.php:58
+msgid "Price"
+msgstr ""
+
+#: inc/appointments.php:231 inc/inks.php:60 inc/inks.php:89
+#: inc/xkontsmpage.php:166
+msgid "Inks"
+msgstr ""
+
+#: inc/appointments.php:232 inc/needles.php:60 inc/needles.php:89
+#: inc/xkontsmpage.php:220
+msgid "Needles"
+msgstr ""
+
+#: inc/appointments.php:233
+msgid "Files"
+msgstr ""
+
+#: inc/appointments.php:234 inc/clients.php:160 inc/employees.php:231
+#: inc/inks.php:184 inc/needles.php:172 inc/suppliers.php:153
+msgid "Notes"
+msgstr ""
+
+#: inc/clients.php:13
+msgctxt "Post Type General Name"
+msgid "Clients"
+msgstr ""
+
+#: inc/clients.php:14
+msgctxt "Post Type Singular Name"
+msgid "Client"
+msgstr ""
+
+#: inc/clients.php:15 inc/clients.php:44
+msgid "Clients"
+msgstr ""
+
+#: inc/clients.php:19
+msgid "Parent Client:"
+msgstr ""
+
+#: inc/clients.php:20
+msgid "All Clients"
+msgstr ""
+
+#: inc/clients.php:21 inc/clients.php:22
+msgid "Add New Client"
+msgstr ""
+
+#: inc/clients.php:23
+msgid "New Client"
+msgstr ""
+
+#: inc/clients.php:24
+msgid "Edit Client"
+msgstr ""
+
+#: inc/clients.php:25
+msgid "Update Client"
+msgstr ""
+
+#: inc/clients.php:26
+msgid "View Client"
+msgstr ""
+
+#: inc/clients.php:27
+msgid "View Clients"
+msgstr ""
+
+#: inc/clients.php:28
+msgid "Search Clients"
+msgstr ""
+
+#: inc/clients.php:35
+msgid "Insert into Client"
+msgstr ""
+
+#: inc/clients.php:36
+msgid "Uploaded to this Client"
+msgstr ""
+
+#: inc/clients.php:37
+msgid "Clients list"
+msgstr ""
+
+#: inc/clients.php:38
+msgid "Clients list navigation"
+msgstr ""
+
+#: inc/clients.php:39
+msgid "Filter Clients list"
+msgstr ""
+
+#: inc/clients.php:77
+msgid "Client Details"
+msgstr ""
+
+#: inc/clients.php:85 inc/employees.php:135
+msgid "Birthday:"
+msgstr ""
+
+#: inc/clients.php:90 inc/employees.php:140 inc/suppliers.php:86
+msgid "Phone:"
+msgstr ""
+
+#: inc/clients.php:95 inc/employees.php:145
+msgid "Mobile:"
+msgstr ""
+
+#: inc/clients.php:100 inc/employees.php:150 inc/suppliers.php:91
+msgid "Address:"
+msgstr ""
+
+#: inc/clients.php:105 inc/employees.php:155 inc/suppliers.php:96
+msgid "City:"
+msgstr ""
+
+#: inc/clients.php:110 inc/employees.php:160 inc/suppliers.php:101
+msgid "Area Code:"
+msgstr ""
+
+#: inc/clients.php:115 inc/employees.php:165 inc/suppliers.php:106
+msgid "Country:"
+msgstr ""
+
+#: inc/clients.php:120 inc/employees.php:170 inc/suppliers.php:116
+msgid "Facebook:"
+msgstr ""
+
+#: inc/clients.php:125 inc/employees.php:175 inc/suppliers.php:121
+msgid "Instagram:"
+msgstr ""
+
+#: inc/clients.php:151 inc/employees.php:220 inc/inks.php:179
+#: inc/revenues.php:72 inc/suppliers.php:147 inc/xkontsmpage.php:187
+msgid "Name"
+msgstr ""
+
+#: inc/clients.php:153 inc/employees.php:223
+msgid "Birthday"
+msgstr ""
+
+#: inc/clients.php:154 inc/employees.php:224 inc/suppliers.php:149
+msgid "Phone"
+msgstr ""
+
+#: inc/clients.php:155 inc/employees.php:225
+msgid "Mobile"
+msgstr ""
+
+#: inc/clients.php:156 inc/employees.php:226 inc/suppliers.php:150
+msgid "Address"
+msgstr ""
+
+#: inc/clients.php:157 inc/employees.php:228 inc/suppliers.php:152
+msgid "Social"
+msgstr ""
+
+#: inc/clients.php:158 inc/employees.php:229
+msgid "Total Appointments"
+msgstr ""
+
+#: inc/clients.php:159 inc/employees.php:230 inc/xkontsmpage.php:93
+msgid "Total Revenue"
+msgstr ""
+
+#: inc/employees.php:13
+msgctxt "Taxonomy General Name"
+msgid "Job Positions"
+msgstr ""
+
+#: inc/employees.php:14
+msgctxt "Taxonomy Singular Name"
+msgid "Job Position"
+msgstr ""
+
+#: inc/employees.php:15
+msgid "Job Positions"
+msgstr ""
+
+#: inc/employees.php:16
+msgid "All Job Positions"
+msgstr ""
+
+#: inc/employees.php:17
+msgid "Parent Job Position"
+msgstr ""
+
+#: inc/employees.php:18
+msgid "Parent Job Position:"
+msgstr ""
+
+#: inc/employees.php:19
+msgid "New Job Position"
+msgstr ""
+
+#: inc/employees.php:20
+msgid "Add New Job Position"
+msgstr ""
+
+#: inc/employees.php:21
+msgid "Edit Job Position"
+msgstr ""
+
+#: inc/employees.php:22
+msgid "Update Job Position"
+msgstr ""
+
+#: inc/employees.php:23
+msgid "View Job Position"
+msgstr ""
+
+#: inc/employees.php:25
+msgid "Add or remove Job Position"
+msgstr ""
+
+#: inc/employees.php:27
+msgid "Popular Job Positions"
+msgstr ""
+
+#: inc/employees.php:28
+msgid "Search Job Positions"
+msgstr ""
+
+#: inc/employees.php:29
+msgid "Job Position not found"
+msgstr ""
+
+#: inc/employees.php:31
+msgid "Job Positions list"
+msgstr ""
+
+#: inc/employees.php:32
+msgid "Job Positions list navigation"
+msgstr ""
+
+#: inc/employees.php:58
+msgctxt "Post Type General Name"
+msgid "Employees"
+msgstr ""
+
+#: inc/employees.php:59
+msgctxt "Post Type Singular Name"
+msgid "Employee"
+msgstr ""
+
+#: inc/employees.php:60 inc/employees.php:89
+msgid "Employees"
+msgstr ""
+
+#: inc/employees.php:64
+msgid "Parent Employee:"
+msgstr ""
+
+#: inc/employees.php:65
+msgid "All Employees"
+msgstr ""
+
+#: inc/employees.php:66 inc/employees.php:67
+msgid "Add New Employee"
+msgstr ""
+
+#: inc/employees.php:68
+msgid "New Employee"
+msgstr ""
+
+#: inc/employees.php:69
+msgid "Edit Employee"
+msgstr ""
+
+#: inc/employees.php:70
+msgid "Update Employee"
+msgstr ""
+
+#: inc/employees.php:71
+msgid "View Employee"
+msgstr ""
+
+#: inc/employees.php:72
+msgid "View Employees"
+msgstr ""
+
+#: inc/employees.php:73
+msgid "Search Employees"
+msgstr ""
+
+#: inc/employees.php:80
+msgid "Insert into Employee"
+msgstr ""
+
+#: inc/employees.php:81
+msgid "Uploaded to this Employee"
+msgstr ""
+
+#: inc/employees.php:82
+msgid "Employees list"
+msgstr ""
+
+#: inc/employees.php:83
+msgid "Employees list navigation"
+msgstr ""
+
+#: inc/employees.php:84
+msgid "Filter Employees list"
+msgstr ""
+
+#: inc/employees.php:122
+msgid "Employee Details"
+msgstr ""
+
+#: inc/employees.php:130
+msgid "Nickname:"
+msgstr ""
+
+#: inc/employees.php:182
+msgid "Health Certificate:"
+msgstr ""
+
+#: inc/employees.php:222
+msgid "Nickname"
+msgstr ""
+
+#: inc/employees.php:227
+msgid "Health Certificate"
+msgstr ""
+
+#: inc/inks.php:13
+msgctxt "Taxonomy General Name"
+msgid "Ink Companies & Sets"
+msgstr ""
+
+#: inc/inks.php:14
+msgctxt "Taxonomy Singular Name"
+msgid "Ink Company & Set"
+msgstr ""
+
+#: inc/inks.php:15
+msgid "Ink Companies  & Sets"
+msgstr ""
+
+#: inc/inks.php:16
+msgid "All Ink Companies  & Sets"
+msgstr ""
+
+#: inc/inks.php:17
+msgid "Parent Ink Company & Set"
+msgstr ""
+
+#: inc/inks.php:18
+msgid "Parent Ink Company & Set:"
+msgstr ""
+
+#: inc/inks.php:19
+msgid "New Ink Company & Set"
+msgstr ""
+
+#: inc/inks.php:20
+msgid "Add New Ink Company & Set"
+msgstr ""
+
+#: inc/inks.php:21
+msgid "Edit Ink Company & Set"
+msgstr ""
+
+#: inc/inks.php:22
+msgid "Update Ink Company & Set"
+msgstr ""
+
+#: inc/inks.php:23
+msgid "View Ink Company & Set"
+msgstr ""
+
+#: inc/inks.php:25
+msgid "Add or remove Ink Company & Set"
+msgstr ""
+
+#: inc/inks.php:27
+msgid "Popular Ink Companies  & Sets"
+msgstr ""
+
+#: inc/inks.php:28
+msgid "Search Ink Companies  & Sets"
+msgstr ""
+
+#: inc/inks.php:29
+msgid "Ink Company & Set not found"
+msgstr ""
+
+#: inc/inks.php:31
+msgid "Ink Companies & Sets list"
+msgstr ""
+
+#: inc/inks.php:32
+msgid "Ink Companies & Sets list navigation"
+msgstr ""
+
+#: inc/inks.php:58
+msgctxt "Post Type General Name"
+msgid "Inks"
+msgstr ""
+
+#: inc/inks.php:59
+msgctxt "Post Type Singular Name"
+msgid "Ink"
+msgstr ""
+
+#: inc/inks.php:61 inc/inks.php:88
+msgid "Ink"
+msgstr ""
+
+#: inc/inks.php:64
+msgid "Parent Ink:"
+msgstr ""
+
+#: inc/inks.php:65
+msgid "All Inks"
+msgstr ""
+
+#: inc/inks.php:66 inc/inks.php:67
+msgid "Add New Ink"
+msgstr ""
+
+#: inc/inks.php:68
+msgid "New Ink"
+msgstr ""
+
+#: inc/inks.php:69
+msgid "Edit Ink"
+msgstr ""
+
+#: inc/inks.php:70
+msgid "Update Ink"
+msgstr ""
+
+#: inc/inks.php:71
+msgid "View Ink"
+msgstr ""
+
+#: inc/inks.php:72
+msgid "View Inks"
+msgstr ""
+
+#: inc/inks.php:73
+msgid "Search Inks"
+msgstr ""
+
+#: inc/inks.php:80
+msgid "Insert into Ink"
+msgstr ""
+
+#: inc/inks.php:81
+msgid "Uploaded to this Ink"
+msgstr ""
+
+#: inc/inks.php:82
+msgid "Inks list"
+msgstr ""
+
+#: inc/inks.php:83
+msgid "Inks list navigation"
+msgstr ""
+
+#: inc/inks.php:84
+msgid "Filter Inks list"
+msgstr ""
+
+#: inc/inks.php:122
+msgid "Ink Details"
+msgstr ""
+
+#: inc/inks.php:130
+msgid "Ink Hue:"
+msgstr ""
+
+#: inc/inks.php:135 inc/needles.php:130
+msgid "Expiration Date:"
+msgstr ""
+
+#: inc/inks.php:140
+msgid "Size:"
+msgstr ""
+
+#: inc/inks.php:181
+msgid "Hue"
+msgstr ""
+
+#: inc/inks.php:182 inc/needles.php:171
+msgid "Expiration Date"
+msgstr ""
+
+#: inc/inks.php:183
+msgid "Size"
+msgstr ""
+
+#: inc/needles.php:13
+msgctxt "Taxonomy General Name"
+msgid "Needle Companies"
+msgstr ""
+
+#: inc/needles.php:14
+msgctxt "Taxonomy Singular Name"
+msgid "Needle Company"
+msgstr ""
+
+#: inc/needles.php:15
+msgid "Needle Companies"
+msgstr ""
+
+#: inc/needles.php:16
+msgid "All Needle Companies"
+msgstr ""
+
+#: inc/needles.php:17
+msgid "Parent Needle Company"
+msgstr ""
+
+#: inc/needles.php:18
+msgid "Parent Needle Company:"
+msgstr ""
+
+#: inc/needles.php:19
+msgid "New Needle Company"
+msgstr ""
+
+#: inc/needles.php:20
+msgid "Add New Needle Company"
+msgstr ""
+
+#: inc/needles.php:21
+msgid "Edit Needle Company"
+msgstr ""
+
+#: inc/needles.php:22
+msgid "Update Needle Company"
+msgstr ""
+
+#: inc/needles.php:23
+msgid "View Needle Company"
+msgstr ""
+
+#: inc/needles.php:25
+msgid "Add or remove Needle Company"
+msgstr ""
+
+#: inc/needles.php:27
+msgid "Popular Needle Companies"
+msgstr ""
+
+#: inc/needles.php:28
+msgid "Search Needle Companies"
+msgstr ""
+
+#: inc/needles.php:29
+msgid "Needle Company not found"
+msgstr ""
+
+#: inc/needles.php:31
+msgid "Needle Companies list"
+msgstr ""
+
+#: inc/needles.php:32
+msgid "Needle Companies list navigation"
+msgstr ""
+
+#: inc/needles.php:58
+msgctxt "Post Type General Name"
+msgid "Needles"
+msgstr ""
+
+#: inc/needles.php:59
+msgctxt "Post Type Singular Name"
+msgid "Needle"
+msgstr ""
+
+#: inc/needles.php:61 inc/needles.php:88
+msgid "Needle"
+msgstr ""
+
+#: inc/needles.php:64
+msgid "Parent Needle:"
+msgstr ""
+
+#: inc/needles.php:65
+msgid "All Needles"
+msgstr ""
+
+#: inc/needles.php:66 inc/needles.php:67
+msgid "Add New Needle"
+msgstr ""
+
+#: inc/needles.php:68
+msgid "New Needle"
+msgstr ""
+
+#: inc/needles.php:69
+msgid "Edit Needle"
+msgstr ""
+
+#: inc/needles.php:70
+msgid "Update Needle"
+msgstr ""
+
+#: inc/needles.php:71
+msgid "View Needle"
+msgstr ""
+
+#: inc/needles.php:72
+msgid "View Needles"
+msgstr ""
+
+#: inc/needles.php:73
+msgid "Search Needles"
+msgstr ""
+
+#: inc/needles.php:80
+msgid "Insert into Needle"
+msgstr ""
+
+#: inc/needles.php:81
+msgid "Uploaded to this Needle"
+msgstr ""
+
+#: inc/needles.php:82
+msgid "Needles list"
+msgstr ""
+
+#: inc/needles.php:83
+msgid "Needles list navigation"
+msgstr ""
+
+#: inc/needles.php:84
+msgid "Filter Needles list"
+msgstr ""
+
+#: inc/needles.php:122
+msgid "Needle Details"
+msgstr ""
+
+#: inc/needles.php:169 inc/xkontsmpage.php:241
+msgid "Size & Type"
+msgstr ""
+
+#: inc/revenues.php:10
+msgid "Please use a correct date format"
+msgstr ""
+
+#: inc/revenues.php:14
+msgid "Revenue Per Appoinment Type"
+msgstr ""
+
+#: inc/revenues.php:18 inc/xkontsmpage.php:52
+msgid "Type"
+msgstr ""
+
+#: inc/revenues.php:19 inc/revenues.php:73
+msgid "Total"
+msgstr ""
+
+#: inc/revenues.php:68
+msgid "Revenue Per Employee"
+msgstr ""
+
+#: inc/suppliers.php:13
+msgctxt "Post Type General Name"
+msgid "Suppliers"
+msgstr ""
+
+#: inc/suppliers.php:14
+msgctxt "Post Type Singular Name"
+msgid "Supplier"
+msgstr ""
+
+#: inc/suppliers.php:15 inc/suppliers.php:44
+msgid "Suppliers"
+msgstr ""
+
+#: inc/suppliers.php:16 inc/suppliers.php:43
+msgid "Supplier"
+msgstr ""
+
+#: inc/suppliers.php:19
+msgid "Parent Supplier:"
+msgstr ""
+
+#: inc/suppliers.php:20
+msgid "All Suppliers"
+msgstr ""
+
+#: inc/suppliers.php:21 inc/suppliers.php:22
+msgid "Add New Supplier"
+msgstr ""
+
+#: inc/suppliers.php:23
+msgid "New Supplier"
+msgstr ""
+
+#: inc/suppliers.php:24
+msgid "Edit Supplier"
+msgstr ""
+
+#: inc/suppliers.php:25
+msgid "Update Supplier"
+msgstr ""
+
+#: inc/suppliers.php:26
+msgid "View Supplier"
+msgstr ""
+
+#: inc/suppliers.php:27
+msgid "View Suppliers"
+msgstr ""
+
+#: inc/suppliers.php:28
+msgid "Search Suppliers"
+msgstr ""
+
+#: inc/suppliers.php:35
+msgid "Insert into Supplier"
+msgstr ""
+
+#: inc/suppliers.php:36
+msgid "Uploaded to this Supplier"
+msgstr ""
+
+#: inc/suppliers.php:37
+msgid "Suppliers list"
+msgstr ""
+
+#: inc/suppliers.php:38
+msgid "Suppliers list navigation"
+msgstr ""
+
+#: inc/suppliers.php:39
+msgid "Filter Suppliers list"
+msgstr ""
+
+#: inc/suppliers.php:78
+msgid "Supplier Details"
+msgstr ""
+
+#: inc/suppliers.php:111
+msgid "Website:"
+msgstr ""
+
+#: inc/suppliers.php:151
+msgid "Website"
+msgstr ""
+
+#: inc/xkontsmpage.php:24
+msgid "Forthcoming Appointments in the next"
+msgstr ""
+
+#: inc/xkontsmpage.php:24
+msgid "Days"
+msgstr ""
+
+#: inc/xkontsmpage.php:49
+msgid "Title"
+msgstr ""
+
+#: inc/xkontsmpage.php:55
+msgid "Date<br/>Time"
+msgstr ""
+
+#: inc/xkontsmpage.php:119
+msgid "Refresh"
+msgstr ""
+
+#: inc/xkontsmpage.php:135
+msgid "Lucky Raffle"
+msgstr ""
+
+#: inc/xkontsmpage.php:142
+msgid ""
+"Click the <strong>Draw!</strong> button to select one random winner from "
+"your clients to win a prize!"
+msgstr ""
+
+#: inc/xkontsmpage.php:148
+msgid "Draw!"
+msgstr ""
+
+#: inc/xkontsmpage.php:162
+msgid "About To Expire"
+msgstr ""
+
+#: inc/xkontsmpage.php:190 inc/xkontsmpage.php:244
+msgid "Company"
+msgstr ""
+
+#: inc/xkontsmpage.php:193 inc/xkontsmpage.php:247
+msgid "Expires on"
+msgstr ""
+
+#: inc/xkontsmpage.php:278
+msgid "Information &amp; Settings"
+msgstr ""
+
+#: inc/xkontsmpage.php:293
+msgid "Save"
+msgstr ""
+
+#: tattoo-shop-manager.php:36
+msgid ""
+"This plugin requires the latest <a href=\"plugin-install.php?s=metabox."
+"io&tab=search&type=term\" target=\"_parent\">Meta Box (metabox.io)</a> "
+"plugin to be active! Please install and activate it."
+msgstr ""
+
+#: tattoo-shop-manager.php:51
+msgid "Settings"
+msgstr ""
+
+#: tattoo-shop-manager.php:52
+msgid "Currency Symbol"
+msgstr ""
+
+#: tattoo-shop-manager.php:53
+msgid "Forthcoming Appointments Days"
+msgstr ""
+
+#: tattoo-shop-manager.php:54
+msgid "Expiration Days"
+msgstr ""
+
+#: tattoo-shop-manager.php:61
+msgid "Adjust to your preference"
+msgstr ""
+
+#: tattoo-shop-manager.php:115
+msgid "Enter Needle's size & type"
+msgstr ""
+
+#: tattoo-shop-manager.php:117
+msgid "Enter Ink's name"
+msgstr ""
+
+#: tattoo-shop-manager.php:119
+msgid "Enter Client's name"
+msgstr ""
+
+#: tattoo-shop-manager.php:121
+msgid "Enter Employee's name"
+msgstr ""
+
+#: tattoo-shop-manager.php:123
+msgid "Enter Appointment's title"
+msgstr ""
+
+#: tattoo-shop-manager.php:125
+msgid "Enter Suppliers's name"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Tattoo Shop Manager"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://xkon.gr/tattoo-shop-manager/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A simple yet powerful Tattoo Shop Manager."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Xenos Konstantinos (xkon)"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://xkon.gr/"
+msgstr ""

@@ -16,7 +16,7 @@ function tattoo_shop_manager_suppliers_post_type()
         'name_admin_bar' => __('Supplier', 'tattoo-shop-manager'),
         'archives' => __('Archives', 'tattoo-shop-manager'),
         'attributes' => __('Attributes', 'tattoo-shop-manager'),
-        'parent_item_colon' => __('Parent:', 'tattoo-shop-manager'),
+        'parent_item_colon' => __('Parent Supplier:', 'tattoo-shop-manager'),
         'all_items' => __('All Suppliers', 'tattoo-shop-manager'),
         'add_new_item' => __('Add New Supplier', 'tattoo-shop-manager'),
         'add_new' => __('Add New Supplier', 'tattoo-shop-manager'),
@@ -144,7 +144,7 @@ function tattoo_shop_manager_manage_suppliers_columns($columns)
 {
     unset($columns['description']);
     unset($columns['date']);
-    $columns['title'] = 'Name';
+    $columns['title'] = __('Name', 'tattoo-shop-manager');;
     $columns['picture'] = __('Picture', 'tattoo-shop-manager');
     $columns['phone'] = __('Phone', 'tattoo-shop-manager');
     $columns['address'] = __('Address', 'tattoo-shop-manager');

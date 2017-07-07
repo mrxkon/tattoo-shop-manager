@@ -176,7 +176,7 @@ function tattoo_shop_manager_manage_inks_columns($columns)
 {
     unset($columns['description']);
     unset($columns['date']);
-    $columns['title'] = 'Name';
+    $columns['title'] = __('Name', 'tattoo-shop-manager');
     $columns['picture'] = __('Picture', 'tattoo-shop-manager');
     $columns['hue'] = __('Hue', 'tattoo-shop-manager');
     $columns['expiration'] = __('Expiration Date', 'tattoo-shop-manager');
