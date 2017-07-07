@@ -4,7 +4,7 @@ Donate link: https://www.paypal.me/xkon
 Tags: tattoo, shop, manager, clients, stock, appointments, piercing
 Requires at least: 4.7
 Tested up to: 4.8
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,6 +17,8 @@ A simple yet powerful Tattoo Shop Manager.
 I'm a Tattoo Artist / Web Developer and a shop owner so I originally created this for personal use on my shop and thought it was time to make it public. This plugin is based on personal needs / experience of what information I wanted but feel free to ask for updates or changes to make it even better.
 
 You can show your love & support by donating if you like.
+
+[Demo](https://demo.xkon.gr/ "Demo")
 
 [Official GitHub Repo and Issue Tracker](https://github.com/mrxkon/tattoo-shop-manager)
 
@@ -157,6 +159,11 @@ I've been installing and using this plugin in many friendly shops running live w
 This is the first public release.
 
 == Changelog ==
+
+= 1.0.3 =
+
+* Minor fixes.
+* Added Demo Site link.
 
 = 1.0.2 =
 

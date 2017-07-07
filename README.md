@@ -6,11 +6,13 @@ Requires at least: WordPress 4.7
 
 Tested up to: WordPress 4.8
 
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 
 License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+###[Demo](https://demo.xkon.gr/ "Demo")
 
 **You can show your love & support by donating via**  <a href="https://www.paypal.me/xkon" target="_blank"><img src="https://www.paypalobjects.com/webstatic/paypalme/images/pp_logo_small.png" height="20px"/></a>
 
@@ -122,6 +124,11 @@ I've been installing and using this plugin in many friendly shops running live w
 This is the first public release.
 
 ### Changelog
+
+**1.0.3**
+
+* Minor fixes.
+* Added Demo Site link.
 
 **1.0.2**
 

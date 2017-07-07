@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tattoo Shop Manager\n"
 "POT-Creation-Date: 2017-07-07 06:54+0300\n"
-"PO-Revision-Date: 2017-07-07 06:58+0300\n"
+"PO-Revision-Date: 2017-07-07 07:24+0300\n"
 "Last-Translator: \n"
 "Language-Team: xkon\n"
 "Language: el\n"
@@ -527,7 +527,7 @@ msgstr "Υπάλληλος"
 
 #: inc/employees.php:60 inc/employees.php:89
 msgid "Employees"
-msgstr "Υπάλληλοι:"
+msgstr "Υπάλληλοι"
 
 #: inc/employees.php:64
 msgid "Parent Employee:"

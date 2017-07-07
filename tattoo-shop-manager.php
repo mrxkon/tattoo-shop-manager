@@ -1,12 +1,12 @@
 <?php
 /*
  * @package Tattoo Shop Manager
- * @version 1.0.2
+ * @version 1.0.3
  *
  * Plugin Name:       Tattoo Shop Manager
  * Plugin URI:        https://xkon.gr/tattoo-shop-manager/
  * Description:       A simple yet powerful Tattoo Shop Manager.
- * Version:           1.0.2
+ * Version:           1.0.3
  * Author:            Xenos Konstantinos (xkon)
  * Author URI:        https://xkon.gr/
  * License:           GPL-2.0+
@@ -97,9 +97,9 @@ add_action('plugins_loaded', 'tsm_load_textdomain');
 function tattoo_shop_manager_styles()
 {
     wp_enqueue_style('flatpickr-css', plugin_dir_url(__FILE__) . 'flatpickr/flatpickr.min.css', array(), '3.0.6');
-    wp_enqueue_style('tattoo-shop-manager-css', plugin_dir_url(__FILE__) . 'css/style.css', array(), '1.0.2');
+    wp_enqueue_style('tattoo-shop-manager-css', plugin_dir_url(__FILE__) . 'css/style.css', array(), '1.0.3');
     wp_enqueue_script('flatpickr-js', plugin_dir_url(__FILE__) . 'flatpickr/flatpickr.min.js', array('jquery'), '3.0.6', true);
-    wp_enqueue_script('tattoo-shop-manager-js', plugin_dir_url(__FILE__) . 'js/scripts.js', array('jquery'), '1.0.2', true);
+    wp_enqueue_script('tattoo-shop-manager-js', plugin_dir_url(__FILE__) . 'js/scripts.js', array('jquery'), '1.0.3', true);
 }
 
 add_action('admin_enqueue_scripts', 'tattoo_shop_manager_styles');
