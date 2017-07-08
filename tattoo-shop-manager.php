@@ -157,7 +157,7 @@ function tattoo_shop_manager_clients_shortcode(){
   $total_clients = new WP_Query(array(
       'post_type' => 'tsm-clients'
   ));
-  echo '<span class="tsm_total_clients">' . $total_clients->found_posts . '</span>';
+  return '<span class="tsm_total_clients">' . $total_clients->found_posts . '</span>';
 
 }
 
@@ -169,7 +169,7 @@ function tattoo_shop_manager_appointments_shortcode(){
   $total_appointments = new WP_Query(array(
       'post_type' => 'tsm-appointments'
   ));
-  echo '<span class="tsm_total_appointments">' . $total_appointments->found_posts . '</span>';
+  return '<span class="tsm_total_appointments">' . $total_appointments->found_posts . '</span>';
 
 }
 
