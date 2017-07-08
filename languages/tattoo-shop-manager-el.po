@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tattoo Shop Manager\n"
 "POT-Creation-Date: 2017-07-07 06:54+0300\n"
-"PO-Revision-Date: 2017-07-07 07:24+0300\n"
+"PO-Revision-Date: 2017-07-07 20:28+0300\n"
 "Last-Translator: \n"
 "Language-Team: xkon\n"
 "Language: el\n"
@@ -551,7 +551,7 @@ msgstr "Επεξεργασίας Υπαλλήλου"
 
 #: inc/employees.php:70
 msgid "Update Employee"
-msgstr "Ανανέωση Υπαλλήλου"
+msgstr "Ενημέρωση Υπαλλήλου"
 
 #: inc/employees.php:71
 msgid "View Employee"
@@ -645,7 +645,7 @@ msgstr "Επεξεργασία Εταιρείας Μελανιών & Σετ"
 
 #: inc/inks.php:22
 msgid "Update Ink Company & Set"
-msgstr "ΕνημέρωσηΕταιρείας Μελανιών & Σετ"
+msgstr "Ενημέρωση Εταιρείας Μελανιών & Σετ"
 
 #: inc/inks.php:23
 msgid "View Ink Company & Set"
