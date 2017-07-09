@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "Project-Id-Version: Tattoo Shop Manager\n"
-"POT-Creation-Date: 2017-07-07 07:04+0300\n"
+"POT-Creation-Date: 2017-07-09 18:17+0300\n"
 "PO-Revision-Date: 2017-07-07 07:03+0300\n"
 "Last-Translator: \n"
 "Language-Team: xkon\n"
@@ -939,6 +939,73 @@ msgstr ""
 
 #: inc/revenues.php:68
 msgid "Revenue Per Employee"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:51
+msgid "Tattoo Shop Manager - Total Clients"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:52
+msgid "Show your Total Clients"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:82 inc/shortcodes_widgets.php:180
+msgid "New title"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:88
+msgid "Happy Customers!"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:105 inc/shortcodes_widgets.php:203
+#: inc/shortcodes_widgets.php:348
+msgid "Title:"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:111 inc/shortcodes_widgets.php:209
+#: inc/shortcodes_widgets.php:354
+msgid "Text:"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:117 inc/shortcodes_widgets.php:215
+#: inc/shortcodes_widgets.php:360
+msgid "Text CSS classes (i.e. classOne classTwo):"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:123 inc/shortcodes_widgets.php:221
+msgid "Counter CSS classes (i.e. classOne classTwo):"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:149
+msgid "Tattoo Shop Manager - Total Appointments"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:150
+msgid "Show your Total Appointments"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:186
+msgid "Appointments!"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:247
+msgid "Tattoo Shop Manager - Calendar"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:248
+msgid "Show a Calendar with your available dates"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:325
+msgid "Calendar"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:331
+msgid "Check out our available dates!"
+msgstr ""
+
+#: inc/shortcodes_widgets.php:366
+msgid "Calendar Theme:"
 msgstr ""
 
 #: inc/suppliers.php:13

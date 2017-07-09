@@ -102,25 +102,25 @@ class tattoo_shop_manager_total_clients_widget extends WP_Widget
 
         ?>
         <p>
-            <label for="<?php echo $this->get_field_id('title'); ?>"><?php _e('Title:'); ?></label>
+            <label for="<?php echo $this->get_field_id('title'); ?>"><?php echo __('Title:', 'tattoo-shop-manager'); ?></label>
             <input class="widefat" id="<?php echo $this->get_field_id('title'); ?>"
                    name="<?php echo $this->get_field_name('title'); ?>" type="text"
                    value="<?php echo esc_attr($title); ?>"/>
         </p>
         <p>
-            <label for="<?php echo $this->get_field_id('text'); ?>"><?php _e('Text:'); ?></label>
+            <label for="<?php echo $this->get_field_id('text'); ?>"><?php echo __('Text:', 'tattoo-shop-manager'); ?></label>
             <input class="widefat" id="<?php echo $this->get_field_id('text'); ?>"
                    name="<?php echo $this->get_field_name('text'); ?>" type="text"
                    value="<?php echo esc_attr($text); ?>"/>
         </p>
         <p>
-            <label for="<?php echo $this->get_field_id('text_css'); ?>"><?php _e('Text CSS classes (i.e. classOne classTwo):'); ?></label>
+            <label for="<?php echo $this->get_field_id('text_css'); ?>"><?php echo __('Text CSS classes (i.e. classOne classTwo):', 'tattoo-shop-manager'); ?></label>
             <input class="widefat" id="<?php echo $this->get_field_id('text_css'); ?>"
                    name="<?php echo $this->get_field_name('text_css'); ?>" type="text"
                    value="<?php echo esc_attr($text_css); ?>"/>
         </p>
         <p>
-            <label for="<?php echo $this->get_field_id('counter_css'); ?>"><?php _e('Counter CSS classes (i.e. classOne classTwo):'); ?></label>
+            <label for="<?php echo $this->get_field_id('counter_css'); ?>"><?php echo __('Counter CSS classes (i.e. classOne classTwo):', 'tattoo-shop-manager'); ?></label>
             <input class="widefat" id="<?php echo $this->get_field_id('counter_css'); ?>"
                    name="<?php echo $this->get_field_name('counter_css'); ?>" type="text"
                    value="<?php echo esc_attr($counter_css); ?>"/>
@@ -200,25 +200,25 @@ class tattoo_shop_manager_total_appointments_widget extends WP_Widget
 
         ?>
         <p>
-            <label for="<?php echo $this->get_field_id('title'); ?>"><?php _e('Title:'); ?></label>
+            <label for="<?php echo $this->get_field_id('title'); ?>"><?php echo __('Title:', 'tattoo-shop-manager'); ?></label>
             <input class="widefat" id="<?php echo $this->get_field_id('title'); ?>"
                    name="<?php echo $this->get_field_name('title'); ?>" type="text"
                    value="<?php echo esc_attr($title); ?>"/>
         </p>
         <p>
-            <label for="<?php echo $this->get_field_id('text'); ?>"><?php _e('Text:'); ?></label>
+            <label for="<?php echo $this->get_field_id('text'); ?>"><?php echo __('Text:', 'tattoo-shop-manager'); ?></label>
             <input class="widefat" id="<?php echo $this->get_field_id('text'); ?>"
                    name="<?php echo $this->get_field_name('text'); ?>" type="text"
                    value="<?php echo esc_attr($text); ?>"/>
         </p>
         <p>
-            <label for="<?php echo $this->get_field_id('text_css'); ?>"><?php _e('Text CSS classes (i.e. classOne classTwo):'); ?></label>
+            <label for="<?php echo $this->get_field_id('text_css'); ?>"><?php echo __('Text CSS classes (i.e. classOne classTwo):', 'tattoo-shop-manager'); ?></label>
             <input class="widefat" id="<?php echo $this->get_field_id('text_css'); ?>"
                    name="<?php echo $this->get_field_name('text_css'); ?>" type="text"
                    value="<?php echo esc_attr($text_css); ?>"/>
         </p>
         <p>
-            <label for="<?php echo $this->get_field_id('counter_css'); ?>"><?php _e('Counter CSS classes (i.e. classOne classTwo):'); ?></label>
+            <label for="<?php echo $this->get_field_id('counter_css'); ?>"><?php echo __('Counter CSS classes (i.e. classOne classTwo):', 'tattoo-shop-manager'); ?></label>
             <input class="widefat" id="<?php echo $this->get_field_id('counter_css'); ?>"
                    name="<?php echo $this->get_field_name('counter_css'); ?>" type="text"
                    value="<?php echo esc_attr($counter_css); ?>"/>
@@ -345,25 +345,25 @@ class tattoo_shop_manager_calendar_widget extends WP_Widget
 
         ?>
         <p>
-            <label for="<?php echo $this->get_field_id('title'); ?>"><?php _e('Title:'); ?></label>
+            <label for="<?php echo $this->get_field_id('title'); ?>"><?php echo __('Title:', 'tattoo-shop-manager'); ?></label>
             <input class="widefat" id="<?php echo $this->get_field_id('title'); ?>"
                    name="<?php echo $this->get_field_name('title'); ?>" type="text"
                    value="<?php echo esc_attr($title); ?>"/>
         </p>
         <p>
-            <label for="<?php echo $this->get_field_id('text'); ?>"><?php _e('Text:'); ?></label>
+            <label for="<?php echo $this->get_field_id('text'); ?>"><?php echo __('Text:', 'tattoo-shop-manager'); ?></label>
             <input class="widefat" id="<?php echo $this->get_field_id('text'); ?>"
                    name="<?php echo $this->get_field_name('text'); ?>" type="text"
                    value="<?php echo esc_attr($text); ?>"/>
         </p>
         <p>
-            <label for="<?php echo $this->get_field_id('text_css'); ?>"><?php _e('Text CSS classes (i.e. classOne classTwo):'); ?></label>
+            <label for="<?php echo $this->get_field_id('text_css'); ?>"><?php echo __('Text CSS classes (i.e. classOne classTwo):', 'tattoo-shop-manager'); ?></label>
             <input class="widefat" id="<?php echo $this->get_field_id('text_css'); ?>"
                    name="<?php echo $this->get_field_name('text_css'); ?>" type="text"
                    value="<?php echo esc_attr($text_css); ?>"/>
         </p>
         <p>
-            <label for="<?php echo $this->get_field_id('theme'); ?>"><?php _e('Calendar Theme:'); ?></label>
+            <label for="<?php echo $this->get_field_id('theme'); ?>"><?php echo __('Calendar Theme:', 'tattoo-shop-manager'); ?></label>
             <select class="widefat" id="<?php echo $this->get_field_id('theme'); ?>"
                     name="<?php echo $this->get_field_name('theme'); ?>">
                 <option value="light" <?php if (esc_attr($theme) == 'light') {
