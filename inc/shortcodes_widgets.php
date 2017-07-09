@@ -245,7 +245,7 @@ class tattoo_shop_manager_calendar_widget extends WP_Widget
         parent::__construct(
             'tattoo_shop_manager_calendar_widget',
             __('Tattoo Shop Manager - Calendar', 'tattoo-shop-manager'),
-            array('description' => __('Show a Calendar with free and booked days', 'tattoo-shop-manager'),)
+            array('description' => __('Show a Calendar with your available dates', 'tattoo-shop-manager'),)
         );
 
         if (is_active_widget(false, false, $this->id_base)) {
@@ -290,7 +290,9 @@ class tattoo_shop_manager_calendar_widget extends WP_Widget
                 )
             ),
         ));
+
         $appDates = '';
+
         while ($upcappointments->have_posts()) : $upcappointments->the_post();
             $appDates .= '"' . date("Y-m-d", strtotime(get_post_meta(get_the_ID(), 'tsm_appointment_meta_date', true))) . '",';
         endwhile;
@@ -305,12 +307,14 @@ class tattoo_shop_manager_calendar_widget extends WP_Widget
                         shorthandCurrentMonth: true,
                         inline: true,
                         minDate: "today",
-                        disable: [' . $appDates . ']
+                        disable: [' . $appDates . '],
+                        locale: {
+                            firstDayOfWeek: 1
+                        }
                     });
                 });
             })(jQuery);
         </script>';
-
     }
 
     public function form($instance)

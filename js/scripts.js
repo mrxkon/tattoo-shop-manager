@@ -9,7 +9,10 @@
             dateFormat: "Y-m-d H:i:s",
             altFormat: 'd-M-Y',
             mode: 'single',
-            shorthandCurrentMonth: true
+            shorthandCurrentMonth: true,
+            locale: {
+                firstDayOfWeek: 1
+            }
         });
 
         $('#tsm_employee_meta_birthday').flatpickr({
@@ -17,7 +20,10 @@
             dateFormat: "Y-m-d H:i:s",
             altFormat: 'd-M-Y',
             mode: 'single',
-            shorthandCurrentMonth: true
+            shorthandCurrentMonth: true,
+            locale: {
+                firstDayOfWeek: 1
+            }
         });
 
         $('#tsm_ink_meta_expiration').flatpickr({
@@ -25,7 +31,10 @@
             dateFormat: "Y-m-d H:i:s",
             altFormat: 'd-M-Y',
             mode: 'single',
-            shorthandCurrentMonth: true
+            shorthandCurrentMonth: true,
+            locale: {
+                firstDayOfWeek: 1
+            }
         });
 
         $('#tsm_needle_meta_expiration').flatpickr({
@@ -33,7 +42,10 @@
             dateFormat: "Y-m-d H:i:s",
             altFormat: 'd-M-Y',
             mode: 'single',
-            shorthandCurrentMonth: true
+            shorthandCurrentMonth: true,
+            locale: {
+                firstDayOfWeek: 1
+            }
         });
 
         $('#tsm_appointment_meta_date').flatpickr({
@@ -41,7 +53,10 @@
             dateFormat: "Y-m-d H:i:s",
             altFormat: 'd-M-Y',
             mode: 'single',
-            shorthandCurrentMonth: true
+            shorthandCurrentMonth: true,
+            locale: {
+                firstDayOfWeek: 1
+            }
         });
 
         $('#tsm_appointment_meta_time').flatpickr({
@@ -64,7 +79,10 @@
             altFormat: 'd-M-Y',
             mode: 'single',
             shorthandCurrentMonth: true,
-            defaultDate: firstMonthDay
+            defaultDate: firstMonthDay,
+            locale: {
+                firstDayOfWeek: 1
+            }
         });
 
         $('#enddate').flatpickr({
@@ -73,7 +91,10 @@
             altFormat: 'd-M-Y',
             mode: 'single',
             shorthandCurrentMonth: true,
-            defaultDate: lastMonthDay
+            defaultDate: lastMonthDay,
+            locale: {
+                firstDayOfWeek: 1
+            }
         });
 
         istsmpanel = $('body').hasClass('toplevel_page_tattoo-shop-manager');
