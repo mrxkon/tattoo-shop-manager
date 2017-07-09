@@ -4,7 +4,7 @@ Donate link: https://www.paypal.me/xkon
 Tags: tattoo, shop, manager, clients, stock, appointments, piercing
 Requires at least: 4.7
 Tested up to: 4.8
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,7 +26,7 @@ You can show your love & support by donating if you like.
 
 *Many thanks to [Gregory - chmln](https://github.com/chmln/flatpickr "chmln Github") for his datetime picker [Flatpickr](https://github.com/chmln/flatpickr "Flatpickr").*
 
-**Sections**
+**What does it do?**
 
 * Appointments management
 * Client management
@@ -35,7 +35,9 @@ You can show your love & support by donating if you like.
 * Needles Stock
 * Supplier management
 * Total Revenue per Client / Employee / Appointment Type
-* Shortcodes for # Total Clients `[tsm_total_clients]`, # Total Appointments `[tsm_total_appointments]` to use it with your themes counters
+* Shortcodes for # Total Clients `[tsm_total_clients]`, # Total Appointments `[tsm_total_appointments]`
+* Widgets for Total Clients, Total Appointmetns, Available Appointment Dates
+* Languages: English, Greek
 
 A few extra notes about each section and how it works:
 
@@ -159,6 +161,12 @@ I've been installing and using this plugin in many friendly shops running live w
 This is the first public release.
 
 == Changelog ==
+
+= 1.0.4 =
+
+* Added Total Appointments Widget.
+* Added Total Clients Widget.
+* Added Available Dates Calendar Widget.
 
 = 1.0.3 =
 

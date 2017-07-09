@@ -6,7 +6,7 @@ Requires at least: WordPress 4.7
 
 Tested up to: WordPress 4.8
 
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 
 License: GPLv2 or later
 
@@ -28,8 +28,6 @@ I'm a Tattoo Artist / Web Developer and a shop owner so I originally created thi
 
 ### What does it do?
 
-**Sections**
-
 * Appointments management
 * Client management
 * Employee management
@@ -37,7 +35,9 @@ I'm a Tattoo Artist / Web Developer and a shop owner so I originally created thi
 * Needles Stock
 * Supplier management
 * Total Revenue per Client / Employee / Appointment Type
-* Shortcodes for # Total Clients `[tsm_total_clients]`, # Total Appointments `[tsm_total_appointments]` to use it with your themes counters
+* Shortcodes for # Total Clients `[tsm_total_clients]`, # Total Appointments `[tsm_total_appointments]`
+* Widgets for Total Clients, Total Appointmetns, Available Appointment Dates
+* Languages: English, Greek
 
 **A few extra notes about each section and how it works**
 
@@ -124,6 +124,12 @@ I've been installing and using this plugin in many friendly shops running live w
 This is the first public release.
 
 ### Changelog
+
+**1.0.4**
+
+* Added Total Appointments Widget.
+* Added Total Clients Widget.
+* Added Available Dates Calendar Widget.
 
 **1.0.3**
 
