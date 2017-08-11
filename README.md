@@ -4,9 +4,9 @@
 
 Requires at least: WordPress 4.7
 
-Tested up to: WordPress 4.8
+Tested up to: WordPress 4.8.1
 
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 
 License: GPLv2 or later
 
@@ -124,6 +124,10 @@ I've been installing and using this plugin in many friendly shops running live w
 This is the first public release.
 
 ### Changelog
+
+**1.0.5**
+* Checked for compatibility with 4.8.1
+* Converted to WordPress Coding Standards.
 
 **1.0.4**
 

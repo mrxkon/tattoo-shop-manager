@@ -1,12 +1,13 @@
 .flatpickr-calendar:before,
 .flatpickr-calendar:after {
-    display: none !important;
+	display: none !important;
 }
+
 .flatpickr-calendar.inline,
 .flatpickr-calendar .flatpickr-rContainer,
 .flatpickr-calendar .flatpickr-weekdays,
 .flatpickr-calendar .flatpickr-days,
 .flatpickr-calendar .dayContainer {
-    max-width:100% !important;
-    min-width: auto !important;
+	max-width: 100% !important;
+	min-width: auto !important;
 }

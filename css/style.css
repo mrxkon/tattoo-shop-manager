@@ -1,66 +1,66 @@
 body.toplevel_page_tattoo-shop-manager h1.wp-heading-inline {
-    margin-bottom: 20px !important;
+	margin-bottom: 20px !important;
 }
 
 body.toplevel_page_tattoo-shop-manager h2 {
-    padding-left: 12px !important;
-    font-size: 14px !important;
+	padding-left: 12px !important;
+	font-size: 14px !important;
 }
 
 body.toplevel_page_tattoo-shop-manager #minor-publishing-actions {
-    text-align: left !important;
-    padding: 0 !important;
+	text-align: left !important;
+	padding: 0 !important;
 }
 
 body.toplevel_page_tattoo-shop-manager #major-publishing-actions {
-    background: none !important;
-    padding: 10px 0 0 0 !important;
+	background: none !important;
+	padding: 10px 0 0 0 !important;
 }
 
 body.toplevel_page_tattoo-shop-manager .tsmwinnerp {
-    text-align: center !important;
+	text-align: center !important;
 }
 
 body.toplevel_page_tattoo-shop-manager .tsmwinner a {
-    font-size: 15px !important;
-    color: green !important;
-    font-weight: bold !important;
+	font-size: 15px !important;
+	color: green !important;
+	font-weight: bold !important;
 }
 
 body.toplevel_page_tattoo-shop-manager #tsm_info_box .form-table td {
-    width: 100% !important;
+	width: 100% !important;
 }
 
 body.toplevel_page_tattoo-shop-manager .h2red {
-    color: red !important;
+	color: red !important;
 }
 
 body.toplevel_page_tattoo-shop-manager #tsm_info_box .inside h2,
 body.toplevel_page_tattoo-shop-manager #tsmrevenues .inside h2 {
-    padding-left: 0 !important;
-    font-weight: 600 !important;
+	padding-left: 0 !important;
+	font-weight: 600 !important;
 }
 
 body.toplevel_page_tattoo-shop-manager #tsmrevenues #publishing-action {
-    width: 100% !important;
+	width: 100% !important;
 }
 
 body.toplevel_page_tattoo-shop-manager #tsmrevenues .updatetable {
-    width: 100% !important;
+	width: 100% !important;
 }
 
 body.toplevel_page_tattoo-shop-manager #tsmrevenues .updatetable input[type=text] {
-    width: 100% !important;
+	width: 100% !important;
 }
 
 body.toplevel_page_tattoo-shop-manager .form-table td,
 body.toplevel_page_tattoo-shop-manager .form-table th {
-    width: 50% !important;
-    font-weight: normal !important;
+	width: 50% !important;
+	font-weight: normal !important;
 }
 
 body.toplevel_page_tattoo-shop-manager .form-table input {
-    width: 100% !important;
+	width: 100% !important;
 }
 
 body.taxonomy-tsm-inks-taxonomy .form-field.term-slug-wrap,
@@ -71,61 +71,61 @@ body.taxonomy-tsm-appointments-taxonomy .form-field.term-slug-wrap,
 body.taxonomy-tsm-appointments-taxonomy .form-field.term-description-wrap,
 body.taxonomy-tsm-needles-taxonomy .form-field.term-slug-wrap,
 body.taxonomy-tsm-needles-taxonomy .form-field.term-description-wrap {
-    display: none !important;
+	display: none !important;
 }
 
 .rwmb-field {
-    width: 50% !important;
-    display: inline-block !important;
+	width: 50% !important;
+	display: inline-block !important;
 }
 
 .rwmb-media-list {
-    max-height: 150px !important;
-    overflow-y: scroll !important;
-    over-flow-x: hidden !important;
+	max-height: 150px !important;
+	overflow-y: scroll !important;
+	over-flow-x: hidden !important;
 }
 
 .rwmb-post-wrapper .rwmb-input-list {
-    max-height: 183px !important;
-    overflow-y: scroll !important;
-    over-flow-x: hidden !important;
+	max-height: 183px !important;
+	overflow-y: scroll !important;
+	over-flow-x: hidden !important;
 }
 
 .rwmb-file_advanced-wrapper .rwmb-input,
 .rwmb-post-wrapper .rwmb-input-list {
-    width: 50% !important;
+	width: 50% !important;
 }
 
 .rwmb-textarea-wrapper,
 .rwmb-file_input-wrapper {
-    width: 100% !important;
+	width: 100% !important;
 }
 
 .toplevel_page_tattoo-shop-manager > .wp-menu-name {
-    font-size: 11px !important;
+	font-size: 11px !important;
 }
 
 @media (max-width: 782px) {
-    .wp-list-table tr:not(.inline-edit-row):not(.no-items) td:not(.check-column) {
-        position: relative !important;
-        clear: none !important;
-        display: table-cell !important;
-        width: auto !important;
-    }
+	.wp-list-table tr:not(.inline-edit-row):not(.no-items) td:not(.check-column) {
+		position: relative !important;
+		clear: none !important;
+		display: table-cell !important;
+		width: auto !important;
+	}
 }
 
 @media (max-width: 1200px) {
-    .rwmb-field,
-    .rwmb-file_advanced-wrapper {
-        width: 100% !important;
-        display: inline-block !important;
-    }
+	.rwmb-field,
+	.rwmb-file_advanced-wrapper {
+		width: 100% !important;
+		display: inline-block !important;
+	}
 
-    .rwmb-file_advanced-wrapper .rwmb-input {
-        width: 75% !important;
-    }
+	.rwmb-file_advanced-wrapper .rwmb-input {
+		width: 75% !important;
+	}
 
-    .rwmb-post-wrapper .rwmb-input-list {
-        width: 100% !important;
-    }
+	.rwmb-post-wrapper .rwmb-input-list {
+		width: 100% !important;
+	}
 }
