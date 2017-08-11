@@ -163,6 +163,7 @@ This is the first public release.
 == Changelog ==
 
 = 1.0.5 =
+
 * Checked for compatibility with 4.8.1
 * Converted to WordPress Coding Standards.
 
